@@ -1,6 +1,8 @@
 # HelloiOS
 Hello iOS - UIKit/Storyboard 예제
 
+![image](https://user-images.githubusercontent.com/89061309/202826683-e745ab60-0cde-41d3-9191-419d044938ae.png)
+
 
 
 # 학습 자료
